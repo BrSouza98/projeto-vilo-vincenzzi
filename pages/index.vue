@@ -7,7 +7,7 @@
           src="https://randomuser.me/api/portraits/women/44.jpg"
           size="128px"
         />
-        <h2 class="fv-padding-sm">Default User</h2>
+        <h2 class="fv-padding-sm">Bruno Fodão!</h2>
       </div>
       <fvList parent>
         <fvListItem class="selected">
